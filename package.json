@@ -1,0 +1,52 @@
+{
+  "name": "next-approuter-bolierplate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.12.0",
+    "@emotion/styled": "^11.12.0",
+    "@hookform/resolvers": "^3.9.0",
+    "@mui/icons-material": "^5.16.4",
+    "@mui/material": "^5.16.4",
+    "@mui/material-nextjs": "^5.16.4",
+    "@mui/x-date-pickers-pro": "^7.11.0",
+    "@reduxjs/toolkit": "^2.2.6",
+    "@types/json2csv": "^5.0.7",
+    "@types/lodash": "^4.17.7",
+    "async-mutex": "^0.5.0",
+    "date-fns": "^3.6.0",
+    "echarts": "^5.5.1",
+    "echarts-for-react": "^3.0.2",
+    "html2canvas": "^1.4.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "jspdf": "^2.5.1",
+    "lodash": "^4.17.21",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.52.1",
+    "react-icons": "^5.2.1",
+    "react-otp-input": "^3.1.1",
+    "react-redux": "^9.1.2",
+    "react-to-print": "^2.15.1",
+    "react-toastify": "^10.0.5",
+    "sweetalert2": "^11.12.3",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
